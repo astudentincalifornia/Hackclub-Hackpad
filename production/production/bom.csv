@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2, D3, D4, D5, D6, D7, D8, D9",D_DO-35_SOD27_P7.62mm_Horizontal,9,1N4148,
+"D10, D11, D13, D14, D15, D16, D17, D18",SK6812-MINI-E,8,SK6812MINI,
+J1,SSD1306-0.91-OLED-4pin-128x32,1,Conn_01x04,
+"SW1, SW2, SW3, SW4, SW6, SW7, SW8, SW9",SW_Cherry_MX_1.00u_PCB_3d,8,SW_Push,
+SW10,RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm,1,RotaryEncoder_Switch,
+U1,XIAO-RP2040-DIP,1,XIAO-RP2040-DIP,

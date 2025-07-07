@@ -1,6 +1,18 @@
 # SquarePad
 ![Full Picture](assets/Case2.png)
 The **SquarePad** is a custom macropad with 8 switches with backlight LEDs, a rotary encoder, and an OLED screen. The **SquarePad** is a useful tool for custom shortcuts and a knob to manipulate any adjustable parameters for ease of use in different software.
+## BOM
+- 8x Cherry MX Switches
+- 1x Seeed XIAO RP2040
+- 1x 0.91in 128x32px OLED
+- 1x EC11 Encoder
+- 1x 3D printed Top
+- 1x 3D printed Bottom
+- 4x M3x16mm Screw
+- 4x M3x5mx4mm heatset inserts
+- 8x SK6812 MINI-E LEDs
+- 9x Through-hole 1N4148 Diodes
+
 ## Features
 - **8 Different Back Light Switches** for me to customize
 - **A Rotary Encoder Switch** for me to customize ~~right now set to remove permission from all my files~~ for useful tool or shortcuts

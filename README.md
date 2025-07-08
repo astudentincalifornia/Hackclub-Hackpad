@@ -1,5 +1,5 @@
 # SquarePad
-![Full Picture](assets/Case2.png)
+![Full Picture](assets/FullCase.png)
 The **SquarePad** is a custom macropad with 8 switches with backlight LEDs, a rotary encoder, and an OLED screen. The **SquarePad** is a useful tool for custom shortcuts and a knob to manipulate any adjustable parameters for ease of use in different software.
 ## BOM
 - 8x Cherry MX Switches
